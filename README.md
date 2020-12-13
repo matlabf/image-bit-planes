@@ -1,9 +1,9 @@
 A gray-scale image has 8 bit planes, each made of ith bit of every pixel.
 
-**Course**: [Image Processing Laboratory], Spring 2014<br>
+**Course**: [Digital Image Processing Laboratory], Spring 2014<br>
 **Taught by**: Prof. Lakshi Prosad Roy
 
-[Image Processing Laboratory]: https://github.com/nitrece/image-processing-laboratory
+[Digital Image Processing Laboratory]: https://github.com/nitrece/digital-image-processing-laboratory
 
 <br>
 <br>
